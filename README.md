@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="Neon%20Orbital%20Cyberpunk%20Landscape.png" width="100%" alt="Yogesh - 3D Futuristic Banner"/>
+</div>
+
+<div align="center">
 
 # 👋 Hey, I'm Yogesh Kumar
 
